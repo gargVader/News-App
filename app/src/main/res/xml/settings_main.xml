@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    android:title="@string/settings_activity_title"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:title="@string/settings_num_of_items"
+        android:defaultValue="@string/settings_num_of_items_default"
+        android:key="@string/settings_num_of_items_key"
+        android:selectAllOnFocus="true"
+        android:inputType="numberDecimal"
+        android:singleLine="true"
+        />
+</PreferenceScreen>

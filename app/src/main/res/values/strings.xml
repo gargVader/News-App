@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">News App</string>
+
+    <string name="HOME">home</string>
+    <string name="WORLD">world</string>
+    <string name="POLITICS">politics</string>
+    <string name="BUSINESS">business</string>
+    <string name="SPORT">sport</string>
+    <string name="TECHNOLOGY">technology</string>
+    <string name="SCIENCE">science</string>
+    <string name="FILM">film</string>
+    <string name="MUSIC">music</string>
+    <string name="FASHION">fashion</string>
+    <string name="TRAVEL">travel</string>
+    <string name="EDUCATION">education</string>
+    <string name="SOCIETY">society</string>
+    <string name="CULTURE">culture</string>
+    <string name="ENVIRONMENT">environment</string>
+    <string name="LIFEANDSTYLE">lifeandstyle</string>
+    <string name="ARTANDDESIGN">artanddesign</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_activity_title">Settings</string>
+
+<!--            Strings for Number of items preference-->
+    <string name="settings_num_of_items">Number of items</string>
+    <string name="settings_num_of_items_key">page-size</string>
+    <string name="settings_num_of_items_default">10</string>
+
+<!--    Query Parameters-->
+    <string name="QUERY_PARAMETER_FORMAT_KEY">format</string>
+    <string name="QUERY_PARAMETER_FORMAT_VALUE">json</string>
+
+    <string name="QUERY_PARAMETER_SHOW_TAGS_KEY">show-tags</string>
+    <string name="QUERY_PARAMETER_SHOW_TAGS_VALUE">contributor</string>
+
+    <string name="QUERY_PARAMETER_SHOW_FIELDS_KEY">show-fields</string>
+    <string name="QUERY_PARAMETER_SHOW_FIELDS_VALUE">headline,thumbnail,short-url,trailText</string>
+
+    <string name="QUERY_PARAMETER_ORDER_BY_KEY">order-by</string>
+    <string name="QUERY_PARAMETER_ORDER_BY_VALUE">newest</string>
+
+    <string name="QUERY_PARAMETER_API_KEY_KEY">api-key</string>
+    <string name="QUERY_PARAMETER_API_KEY_VALUE">fbd3bacf-58db-4481-bf65-bc560744c000</string>
+
+    <string name="QUERY_PARAMETER_SECTION_KEY">section</string>
+    <string name="QUERY_PARAMETER_SECTION_VALUE">world</string>
+
+    <string name="QUERY_PARAMETER_PAGE_SIZE_KEY">page-size</string>
+    <string name="QUERY_PARAMETER_PAGE_SIZE_VALUE">10</string>
+
+</resources>
